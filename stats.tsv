@@ -1,0 +1,231 @@
+# Dungeons II Stats Mod data: prefix, length, hash (of the original description), item name, stats text
+0020007300740049	76	8092D74AE121CC75	War Hammer	Damage: 40 per hit\nCombo time: 0.96s | Base DPS: 41.6\nReach: 250 | Jump attack: 40
+006D0065006E0045	76	99D548A872001C94	Pike	Damage: 15 / 17 / 22 (54 per combo)\nCombo time: 1.71s | Base DPS: 31.5\nReach: 525 | Jump attack: 24
+006C006300200041	77	BFCBC0D19F2C846A	Sword	Damage: 14 / 16 / 22 (52 per combo)\nCombo time: 1.48s | Base DPS: 35.1\nReach: 385 | Jump attack: 24
+00650077006F0050	79	3544BF9E7F4F6513	Gauntlets	Damage: 9 x2 / 9 x2 / 12 x2 (60 per combo)\nCombo time: 1.52s | Base DPS: 39.5\nReach: 275 | Jump attack: 22
+006E006500680057	39	4A3C6A0B74A57546	Double Daggers	Damage: 6 x2 / 6 x2 / 9 x2 (42 per combo)\nCombo time: 1.45s | Base DPS: 29\nReach: 275 | Jump attack: 14
+00650020006E0041	79	AE3CCB2D02C17F56	Axe	Damage: 14 / 16 / 22 (52 per combo)\nCombo time: 1.4s | Base DPS: 37.1\nReach: 350 | Jump attack: 21
+0068007400690057	71	9293C40AC9D3BCFB	Short Spear	Damage: 14 / 8 x3 (38 per combo)\nCombo time: 0.93s | Base DPS: 40.7\nReach: 450 | Jump attack: 22
+0020006500680054	77	58701AD7DD606A80	Pickaxe	Damage: 16 / 16 / 24 (56 per combo)\nCombo time: 1.79s | Base DPS: 31.4\nReach: 300 | Jump attack: 28
+0069006E00200041	60	F9B4C46ADC5D15FC	Rapier	Damage: 6 x3 / 8 x3 / 28 (70 per combo)\nCombo time: 2.02s | Base DPS: 34.7\nReach: 425 | Jump attack: 22
+0065006E00200041	78	EF03C0718DE97D83	Heartbreaker	Damage: 40 per hit\nCombo time: 0.96s | Base DPS: 41.6\nReach: 300 | Jump attack: 40
+0061006D00200041	99	A0729BF50C331AC5	Stormcaller	Damage: 15 / 17 / 22 (54 per combo)\nCombo time: 2.0s | Base DPS: 27\nReach: 525 | Jump attack: 24
+006C006600200041	56	AE542475201D850E	The Burning Blade	Damage: 14 / 14 / 20 (48 per combo)\nCombo time: 1.48s | Base DPS: 32.4\nReach: 385 | Jump attack: 24
+00200065006E004F	97	21BC9406E3586C17	Prime Enchanter's Gauntlets	Damage: 5 x2 / 5.5 x2 / 7 x2 (35 per combo)\nCombo time: 1.98s | Base DPS: 17.6\nReach: 275 | Jump attack: 24
+0061007000200041	79	BC36DD6F417FD0E7	Venomous Fangs	Damage: 6 x2 / 6 x2 / 9 x2 (42 per combo)\nCombo time: 1.43s | Base DPS: 29.4\nReach: 285 | Jump attack: 14
+00200072006F0046	68	6C0FBDBC167D9560	Hunter's Hatchet	Damage: 14 / 14 / 21 (49 per combo)\nCombo time: 1.36s | Base DPS: 36.1\nReach: 350 | Jump attack: 22
+0070007300200041	87	55A06FFB69D021EC	Spectral Spear	Damage: 14 / 8 x3 (38 per combo)\nCombo time: 0.86s | Base DPS: 44.2\nReach: 450 | Jump attack: 22
+0069007000200041	88	3634E338470C527D	Redstone Wrecker	Damage: 35 per hit\nCombo time: 1.25s | Base DPS: 27.9\nReach: 400 | Jump attack: 28
+0020006500680054	80	1A6614CB56A5F6AF	The Prospector's Pick	Damage: 16 / 16 / 24 (56 per combo)\nCombo time: 1.77s | Base DPS: 31.6\nReach: 300 | Jump attack: 28
+0069006E00200041	78	D114167A8BE77028	The Thousand Cuts	Damage: 6 x3 / 8 x3 / 28 (70 per combo)\nCombo time: 2.02s | Base DPS: 34.7\nReach: 425 | Jump attack: 22
+0061006D00200041	65	78926228F01C6824	Claymore	Damage: 15 / 25 / 20 (60 per combo)\nCombo time: 1.92s | Base DPS: 31.3\nReach: 385 | Jump attack: 25
+0079002000660049	76	389270AC3841B9D2	Greatsword	Damage: 18 x3 (54 per combo)\nCombo time: 1.88s | Base DPS: 28.7\nReach: 400 | Jump attack: 18
+0065007200200041	85	6B65D32CEB57A388	Wolf Claws	Damage: 12 x2 / 12 x2 / 16 x2 (80 per combo)\nCombo time: 1.84s | Base DPS: 43.4\nReach: 180 | Jump attack: 12
+0069007700200041	93	D4E46C3C20D81614	Glaive	Damage: 18 / 20 / 28 (66 per combo)\nCombo time: 2.0s | Base DPS: 32.9\nReach: 350 | Jump attack: 24
+0068007400690057	67	F92C4A417026E6A9	Battlestaff	Damage: 26 / 26 / 30 (82 per combo)\nCombo time: 2.32s | Base DPS: 35.3\nReach: 450 | Jump attack: 26
+0065007200200041	61	1415CBE492202540	Meat Cleaver	Damage: 13 / 13 / 18 (44 per combo)\nCombo time: 1.31s | Base DPS: 33.5\nReach: 350 | Jump attack: 20
+0076007200610048	82	F039A8DB69641CCD	Double Sickles	Damage: 9 x2 / 9 x2 / 13 x2 (62 per combo)\nCombo time: 1.46s | Base DPS: 42.6\nReach: 300 | Jump attack: 24
+0020007400690046	83	63D8D31CD18CF94E	Scythe	Damage: 22 / 26 / 30 (78 per combo)\nCombo time: 2.4s | Base DPS: 32.5\nReach: 350 | Jump attack: 24
+00200072006F0046	63	11E69774F5C5B1FA	Clobberer	Damage: 35 per hit\nCombo time: 1.4s | Base DPS: 25\nReach: 400 | Jump attack: 28
+0075006300200041	69	D2575B9F078EB7D6	Cookiecutter	Damage: 20 / 20 / 30 (70 per combo)\nCombo time: 2.05s | Base DPS: 34.2\nReach: 500 | Jump attack: 20
+002700740065004C	42	09F7EB26278320BC	Mob Mallet	Damage: 18 x5 / 24 (114 per combo)\nCombo time: 2.82s | Base DPS: 40.5\nReach: 450 | Jump attack: 24
+0069006D00200041	43	06E4CAA141E621E2	Longsword	Damage: 18 / 18 / 26 (62 per combo)\nCombo time: 1.88s | Base DPS: 33\nReach: 475 | Jump attack: 22
+0075006300200041	94	AF102F02574043BF	Riftslasher	Damage: 14 / 14 / 15 x2 (58 per combo)\nCombo time: 1.17s | Base DPS: 49.7\nReach: 320 | Jump attack: 20
+006E006500680057	104	73F6D81DBBD2841E	Shovel	Damage: 15 / 15 / 60 (90 per combo)\nCombo time: 2.58s | Base DPS: 34.9\nReach: 400 | Jump attack: 30
+0072006200200041	76	49115FCAC3A1D191	Mace	Damage: 14 / 16 / 24 (54 per combo)\nCombo time: 1.81s | Base DPS: 29.8\nReach: 250 | Jump attack: 35
+0075006D00200041	37	880CFD2763B19AA7	Twilight Dagger	Damage: 25 per hit\nCombo time: 0.25s | Base DPS: 100\nReach: 280 | Jump attack: 28
+006C007300200041	70	A6189C0FF31EC2D2	Sabre	Damage: 12 / 14 / 22 (48 per combo)\nCombo time: 1.44s | Base DPS: 33.2\nReach: 350 | Jump attack: 20
+0069007200740053	35	32B78C38A05C8E0A	Battle Hammer	Damage: 15 / 15 / 25 (55 per combo)\nCombo time: 1.77s | Base DPS: 31\nReach: 300 | Jump attack: 30
+0061006800200041	64	5CF3DB6EDF653027	Tidal Sickle	Damage: 12 / 12 / 19 (43 per combo)\nCombo time: 1.35s | Base DPS: 31.8\nReach: 300 | Jump attack: 22
+006F006700200041	70	50412CA864FB3918	Greataxe	Damage: 28 / 30 (58 per combo)\nCombo time: 1.75s | Base DPS: 33.1\nReach: 350 | Jump attack: 24
+006C006300200041	58	3812A6A62D06C79E	Slaymore	Damage: 15 / 25 / 20 (60 per combo)\nCombo time: 1.91s | Base DPS: 31.4\nReach: 385 | Jump attack: 25
+0065006C00200041	75	82CBAE67637EA4B9	The Darkshard	Damage: 18 x3 (54 per combo)\nCombo time: 1.88s | Base DPS: 28.7\nReach: 400 | Jump attack: 18
+0061007000200041	75	0D7FB78369E83620	Sculker Claws	Damage: 12 x2 / 12 x2 / 16 x2 (80 per combo)\nCombo time: 1.82s | Base DPS: 44\nReach: 180 | Jump attack: 12
+006C006700200041	65	556225636AFA366F	Golden Glaive	Damage: 18 / 20 / 28 (66 per combo)\nCombo time: 2.0s | Base DPS: 32.9\nReach: 350 | Jump attack: 24
+006F007000200041	98	34481E24E64FF5D5	Elemental Staff	Damage: 24 / 24 / 30 (78 per combo)\nCombo time: 2.32s | Base DPS: 33.6\nReach: 450 | Jump attack: 26
+0079006D00200041	54	5773FD702AE9D56B	Cacaphonous Cleaver	Damage: 13 / 13 / 18 (44 per combo)\nCombo time: 1.32s | Base DPS: 33.4\nReach: 350 | Jump attack: 20
+0061007000200041	68	710B7FE3D9E7DF36	Sift Sickles	Damage: 9 x2 / 9 x2 / 13 x2 (62 per combo)\nCombo time: 1.44s | Base DPS: 43\nReach: 300 | Jump attack: 24
+0063007300200041	82	649CB5DF5C62CDF6	Soul Reaper	Damage: 22 / 26 / 30 (78 per combo)\nCombo time: 2.4s | Base DPS: 32.5\nReach: 350 | Jump attack: 24
+0061007400200041	73	20E896640C94F345	Lullaby Blade	Damage: 20 / 20 / 30 (70 per combo)\nCombo time: 2.13s | Base DPS: 32.8\nReach: 385 | Jump attack: 20
+0061006D00200041	63	3A7806B686DFD273	Monster Masher	Damage: 16 x5 / 24 (104 per combo)\nCombo time: 2.85s | Base DPS: 36.5\nReach: 450 | Jump attack: 18
+0072006600200041	63	97ADE5F417B1F75A	Frostbiter	Damage: 18 / 18 / 26 (62 per combo)\nCombo time: 1.83s | Base DPS: 33.9\nReach: 475 | Jump attack: 22
+0068007300200041	73	92EA6FB00DD2E9D9	Pride of the Plains	Damage: 14 / 14 / 15 x2 (58 per combo)\nCombo time: 1.13s | Base DPS: 51.1\nReach: 320 | Jump attack: 20
+0075006400200041	72	4A801219074A5543	Diamond Shovel	Damage: 15 / 15 / 60 (90 per combo)\nCombo time: 2.58s | Base DPS: 34.9\nReach: 400 | Jump attack: 30
+0064007200610048	91	C5449E1F6ACC1F2D	Carapace Mace	Damage: 14 / 16 / 24 (54 per combo)\nCombo time: 1.87s | Base DPS: 28.9\nReach: 300 | Jump attack: 35
+0065006400200041	41	594416DAFDFD530F	Sculker's Bane	Damage: 25 per hit\nCombo time: 0.25s | Base DPS: 100\nReach: 280 | Jump attack: 28
+00200072006F0046	61	CFCBE101F61285CC	Rascal's Razor	Damage: 12 / 14 / 22 (48 per combo)\nCombo time: 1.36s | Base DPS: 35.3\nReach: 350 | Jump attack: 20
+0073006900680054	88	092B97DDBBF7637B	Emerald Hammer	Damage: 15 / 15 / 25 (55 per combo)\nCombo time: 1.78s | Base DPS: 30.9\nReach: 300 | Jump attack: 30
+007600610065004C	52	DB14E877D1E59672	Lunar Sickle	Damage: 15 / 15 / 23 (53 per combo)\nCombo time: 1.41s | Base DPS: 37.5\nReach: 300 | Jump attack: 22
+0020007900680057	44	24F300DF0747350B	Awesomeaxe	Damage: 28 / 30 (58 per combo)\nCombo time: 1.75s | Base DPS: 33.1\nReach: 330 | Jump attack: 24
+0075006800200041	69	A560AB6D213AD758	Bow	Damage: 18 per arrow\nFire rate: 0.4s | Ammo: 15 | Reload: 1.2s\nCharged shot: 0.35s (x3 dmg)
+0020006500680054	54	FD8341EC415513EA	Crossbow	Damage: 24 per arrow\nFire rate: 0.6s | Ammo: 15 | Reload: 1.5s
+0068007300200041	70	8C0ADAA9720347FE	Shortbow	Damage: 11 per arrow\nFire rate: 0.2s | Ammo: 18 | Reload: 1s\nCharged shot: 0.125s (x3 dmg)
+00200072006F0046	76	359EFCC95B284AE9	Trickbow	Damage: 14 per arrow\nFire rate: 0.3s | Ammo: 15 | Reload: 1.2s\nCharged shot: 0.2s (x3 dmg)
+0066006100720043	58	EEDECD968FBBFF99	Longbow	Damage: 25 per arrow\nFire rate: 0.5s | Ammo: 12 | Reload: 1.5s\nCharged shot: 0.4s (x3 dmg)
+0020006500680054	74	EED6ED3412B1AD0C	Scatter Crossbow	Damage: 12 per arrow x3 arrows\nFire rate: 0.4s | Ammo: 12 | Reload: 1.5s
+006C007300200041	59	F5B99F66FA2C47F4	Heavy Crossbow	Damage: 108 per arrow\nFire rate: 0.95s | Ammo: 8 | Reload: 2s
+006E006500680057	36	100CB1214B91EC78	Dual Crossbows	Damage: 12 per arrow x2 arrows\nFire rate: 0.6s | Ammo: 20 | Reload: 1s
+00200072006F0046	68	1D22253AE15AB1C7	Rapid Crossbow	Damage: 8 per arrow\nFire rate: 0.2s | Ammo: 25 | Reload: 0.8s
+0061007200200041	64	70E3B745DE9E6EFE	Ranger's Promise	Damage: 18 per arrow\nFire rate: 0.4s | Ammo: 15 | Reload: 0.8s\nCharged shot: 0.3s (x3 dmg)
+006F006F00680053	79	DDD10395FECCA29E	The Shackler	Damage: 24 per arrow\nFire rate: 0.6s | Ammo: 15 | Reload: 1.5s
+006E006500680057	78	555BE908B512D6CE	Shooting Star	Damage: 11 per arrow\nFire rate: 0.2s | Ammo: 18 | Reload: 1s\nCharged shot: 0.125s (x3 dmg)
+00200079006C0046	59	5BE773F5E6CDA4B8	Phantom Wing	Damage: 14 per arrow\nFire rate: 0.3s | Ammo: 15 | Reload: 1.2s\nCharged shot: 0.2s (x3 dmg)
+006500640061004D	79	7EF113F788F7E94B	Creaking's Reach	Damage: 25 per arrow\nFire rate: 0.5s | Ammo: 12 | Reload: 1.5s\nCharged shot: 0.4s (x3 dmg)
+0066006C00610048	91	70C071E7B4DEC2C2	Harp Crossbow	Damage: 12 per arrow x3 arrows\nFire rate: 0.4s | Ammo: 12 | Reload: 1.5s
+006700640075004A	41	392F7019CA846BEF	The Close Ranger	Damage: 108 per arrow\nFire rate: 0.95s | Ammo: 8 | Reload: 2s
+0073006F00720043	80	A36082715356B9CA	The Cross Pollinator	Damage: 8 per arrow\nFire rate: 0.2s | Ammo: 25 | Reload: 0.8s
+006F007000200041	90	6CCCD5F75EC2CA34	Greatbow	Damage: 72 per arrow\nFire rate: 0.4s | Ammo: 10 | Reload: 1.2s\nCharged shot: 0.3s (x4 dmg)
+0073006500680054	74	41C62EF3EA9E720D	Double Crossers	Damage: 12 per arrow x2 arrows\nFire rate: 0.6s | Ammo: 20 | Reload: 1s
+0073006900680054	87	C67F81160DEBA62D	Humbler Heartstring	Damage: 72 per arrow\nFire rate: 0.4s | Ammo: 10 | Reload: 1.2s\nCharged shot: 0.3s (x4 dmg)
+00200072006F0046	49	D033D2E5A76C7955	Scamp Sneakers	Archetypes: Trickster (decides which effects it can roll)
+00200072006F0046	62	1508EA2DC60F07A2	Scamp Hood	Archetypes: Trickster (decides which effects it can roll)
+0064006C006F0048	53	7E0649134FFEB56E	Scamp Jacket	Archetypes: Trickster (decides which effects it can roll)
+00200072006F0046	33	F25B0251A1602BBD	Scamp Leggings	Archetypes: Trickster (decides which effects it can roll)
+0061007000200041	77	CBC7B158B4C1B6C1	Nomad Boots	Archetypes: Fighter (decides which effects it can roll)
+0074007300200041	67	9FE9FF34689C4AB2	Nomad Chestplate	Archetypes: Fighter (decides which effects it can roll)
+0061007200200041	65	22F5501F8A578FC8	Nomad Hood	Archetypes: Fighter (decides which effects it can roll)
+0061007000200041	75	127F9954AA9158D9	Nomad Leggings	Archetypes: Fighter (decides which effects it can roll)
+0061007200200041	71	A6A2E4456E7D48D1	Ranger Jacket	Archetypes: Ranger (decides which effects it can roll)
+00200075006F0059	82	C6F012BD6B5E8F69	Ranger Leggings	Archetypes: Ranger (decides which effects it can roll)
+00200072006F0046	52	2FC45C7691D07DB0	Ranger Boots	Archetypes: Ranger (decides which effects it can roll)
+0020006D00690041	88	11A26248A822B6BD	Ranger Cap	Archetypes: Ranger (decides which effects it can roll)
+0065007200200041	79	B368C2E460FF613A	Wolfpack Boots	Archetypes: Summoner (decides which effects it can roll)
+0065007200200041	76	875079DD8417E6F9	Wolfpack Jacket	Archetypes: Summoner (decides which effects it can roll)
+0065007200200041	81	E0CB7BF140AA07D9	Wolfpack Hood	Archetypes: Summoner (decides which effects it can roll)
+0065007200200041	89	9C7484D048D7FF70	Wolfpack Leggings	Archetypes: Summoner (decides which effects it can roll)
+006500640061004D	68	FFDAE844AE6033EA	Bounty Hunter Boots	Archetypes: Tank (decides which effects it can roll)
+006500640061004D	66	84C12A04BDE5B346	Bounty Hunter Helmet	Archetypes: Tank (decides which effects it can roll)
+006500640061004D	68	F3775C2A822930D3	Bounty Hunter Shinguards	Archetypes: Tank (decides which effects it can roll)
+006500640061004D	66	2B53697158362AAD	Bounty Hunter Chestplate	Archetypes: Tank (decides which effects it can roll)
+006F006300200041	74	F36D85FD1EB7862D	Steel Wool Sweater	Archetypes: Tank + Mage (decides which effects it can roll)
+006F007400200041	85	EFE0F36F22417DAC	Steel Wool Leggings	Archetypes: Tank + Mage (decides which effects it can roll)
+006E007300200041	83	FBB56888F4FF7862	Steel Wool Boots	Archetypes: Tank + Mage (decides which effects it can roll)
+006F006300200041	71	01F21E9615F82AED	Steel Wool Cap	Archetypes: Tank + Mage (decides which effects it can roll)
+006C007500630053	61	4939DFC87F7F4FF1	Sculk Digger Boots	Archetypes: Trickster + Tank (decides which effects it can roll)
+006C007500630053	58	BB6E52D74BA17BFA	Sculk Digger Robe	Archetypes: Trickster + Tank (decides which effects it can roll)
+006C007500630053	61	4931316E7139FF85	Sculk Digger Hood	Archetypes: Trickster + Tank (decides which effects it can roll)
+006C007500630053	65	2A211662EC0F6D18	Sculk Digger Leggings	Archetypes: Trickster + Tank (decides which effects it can roll)
+0020006D00610052	71	AB3DEDE01A3AFE03	Dauntless Horns	Archetypes: Tank (decides which effects it can roll)
+00200072006F0046	68	74A3EE45EB2436CC	Dauntless Pauldrons	Archetypes: Tank (decides which effects it can roll)
+00200072006F0046	69	976AA4ABD5FE9DDB	Dauntless Greaves	Archetypes: Tank (decides which effects it can roll)
+00200072006F0046	74	B9D6689AC7A0E0BC	Dauntless Sabatons	Archetypes: Tank (decides which effects it can roll)
+0073006F00720046	80	2258EC4DD15DCA1F	Rimefrost Armor	Archetypes: Mage + Tank (decides which effects it can roll)
+0061007000200041	76	4CA29AE3CE6CA448	Rimefrost Longjohns	Archetypes: Mage + Tank (decides which effects it can roll)
+0061007000200041	71	238FEB10A89A89CE	Rimefrost Plodders	Archetypes: Mage + Tank (decides which effects it can roll)
+00690020006E0041	63	9A94DD4DFB1BCF96	Rimefrost Icecap	Archetypes: Tank + Mage (decides which effects it can roll)
+0061007000200041	78	02DCBDF06A4281F2	Scoundrel Sneakers	Archetypes: Trickster (decides which effects it can roll)
+0069006B00200041	70	94E9731862AFABDA	Scoundrel Cowl	Archetypes: Trickster (decides which effects it can roll)
+006F006200200041	64	AFA448EC2DAA21E0	Scoundrel Blazer	Archetypes: Trickster (decides which effects it can roll)
+0061007000200041	76	C07C4889A80D688C	Scoundrel Chaps	Archetypes: Trickster (decides which effects it can roll)
+0061007000200041	71	D162057801E4F313	Rover Sabatons	Archetypes: Fighter (decides which effects it can roll)
+0072007000200041	71	91BC0AB71D6952D7	Rover Pauldrons	Archetypes: Fighter (decides which effects it can roll)
+0065007200200041	64	DB0EBA1C630E408B	Rover Visor	Archetypes: Fighter (decides which effects it can roll)
+0061007000200041	56	AE5F360BE02DB100	Rover Gaiters	Archetypes: Fighter (decides which effects it can roll)
+0072007400200041	79	685AD0233C963E2F	Twisted Warden Sneakers	Archetypes: Trickster + Tank (decides which effects it can roll)
+0072007400200041	67	901A75CDE8B57EAF	Twisted Warden Vest	Archetypes: Trickster + Tank (decides which effects it can roll)
+0072007400200041	80	849194D89BE278C4	Twisted Warden Blindfold	Archetypes: Trickster + Tank (decides which effects it can roll)
+0072007400200041	105	9CFE57B5D47FDCFD	Twisted Warden Tights	Archetypes: Trickster + Tank (decides which effects it can roll)
+0065006400200041	83	20160E59A2A7ADDD	Sharpshooter Duster	Archetypes: Ranger (decides which effects it can roll)
+0061007000200041	63	6A3A52AA6512D9EA	Sharpshooter Chaps	Archetypes: Ranger (decides which effects it can roll)
+0061007000200041	58	CD844DFEEA0FAB24	Sharpshooter Spurs	Archetypes: Ranger (decides which effects it can roll)
+006C006600200041	82	57286F398D647402	Sharpshooter Fedora	Archetypes: Ranger (decides which effects it can roll)
+0073007300610050	87	FF0470DC1D844234	Protector Helmet	Archetypes: Tank (decides which effects it can roll)
+0073007300610050	72	D0D5315C2CB49369	Protector Chestplate	Archetypes: Tank (decides which effects it can roll)
+00720075006F0059	44	E2D751390CF31092	Protector Shinguards	Archetypes: Tank (decides which effects it can roll)
+0073007300610050	75	DD6BAF34119293A3	Protector Boots	Archetypes: Tank (decides which effects it can roll)
+0065006800200041	69	0641531DB81BE307	Humbler Antenna	Archetypes: Tank (decides which effects it can roll)
+0061006300200041	73	7AE306027EA961CC	Humbler Carapace	Archetypes: Tank (decides which effects it can roll)
+0061007000200041	78	595AEEC90B2A26DB	Humbler Greaves	Archetypes: Tank (decides which effects it can roll)
+0073006500680054	92	7E97AC8632617DCF	Humbler Tarsi	Archetypes: Tank (decides which effects it can roll)
+0061007000200041	84	5C0D34C2CB0E8E4A	Packleader Paws	Archetypes: Summoner (decides which effects it can roll)
+006400610065004C	66	297154A237EA0D47	Packleader Hide	Archetypes: Summoner (decides which effects it can roll)
+0020006500650053	65	D837A71E631A86CD	Packleader Muzzle	Archetypes: Summoner (decides which effects it can roll)
+0061007000200041	85	8950983018958907	Packleader Fur Chaps	Archetypes: Summoner (decides which effects it can roll)
+0061004D00200041	75	CC2F4460376DB70C	Mystic Circlet	Archetypes: Mage (decides which effects it can roll)
+00450020006E0041	63	22346713E1094E29	Mystic Robe	Archetypes: Mage (decides which effects it can roll)
+00450020006E0041	82	4A25E4C6CB9E14F9	Mystic Leggings	Archetypes: Mage (decides which effects it can roll)
+00450020006E0041	79	6AD0ECE1D4089DF2	Mystic Boots	Archetypes: Mage (decides which effects it can roll)
+0074007300200041	74	141C3CB70DA2AED1	Oracle Crown	Archetypes: Mage (decides which effects it can roll)
+0061007400200041	80	E480B994E0DAF5E0	Oracle Mantle	Archetypes: Mage (decides which effects it can roll)
+0061007000200041	55	CCDAAE9D51F87FE8	Oracle Tights	Archetypes: Mage (decides which effects it can roll)
+0061007000200041	69	9302B4F3CF0D3983	Oracle Sandals	Archetypes: Mage (decides which effects it can roll)
+0072007500740053	55	5D894B9989BFEB1D	Phantom Helmet	Archetypes: Trickster + Ranger (decides which effects it can roll)
+006E006900650052	63	4070D060D13129F9	Phantom Chestplate	Archetypes: Trickster + Ranger (decides which effects it can roll)
+0061007200750044	57	4EE4D43ED32D2F16	Phantom Pants	Archetypes: Trickster + Ranger (decides which effects it can roll)
+007400610065004C	56	A36BCCB40A1B72A5	Phantom Boots	Archetypes: Trickster + Ranger (decides which effects it can roll)
+0079002000660049	84	3F76E5C27E9E8F63	Treehugger Mask	Archetypes: Support + Summoner (decides which effects it can roll)
+00720075006F0059	65	EE943E1E7438176C	Treehugger Chestplate	Archetypes: Summoner + Support (decides which effects it can roll)
+00200072006F0046	48	50E4157D2D867308	Treehugger Leggings	Archetypes: Summoner + Support (decides which effects it can roll)
+00200072006F0046	48	BF1BF1D08C0A8D02	Treehugger Clogs	Archetypes: Summoner + Support (decides which effects it can roll)
+0061006600200041	72	86DEED0024A65E79	Realmreacher Hat	Archetypes: Mage + Ranger (decides which effects it can roll)
+0061006400200041	73	25EAE483A770E4AD	Realmreacher Robe	Archetypes: Mage + Ranger (decides which effects it can roll)
+0061007000200041	83	8A5F8D7074C277A6	Realmreacher Leggings	Archetypes: Mage + Ranger (decides which effects it can roll)
+0061007000200041	85	8AB4D7540C1C4EF0	Realmreacher Boots	Archetypes: Mage + Ranger (decides which effects it can roll)
+007000650065004B	64	ABA031A4F6920342	Beekeeper Veil	Archetypes: Support (decides which effects it can roll)
+0065006900680053	68	131AE6881D0D16E4	Beekeeper Suit	Archetypes: Support (decides which effects it can roll)
+0066002000730041	55	5245D43144247658	Beekeeper Leggings	Archetypes: Support (decides which effects it can roll)
+0073006400640041	51	A06A5C9052812B21	Beekeeper Boots	Archetypes: Support (decides which effects it can roll)
+0069007400610045	90	454A378E7436E95E	Mushroom Cap	Archetypes: Mage + Tank + Utility (decides which effects it can roll)
+0069007400610045	96	00582B875FC95BFE	Mushroom Robe	Archetypes: Mage + Tank + Utility (decides which effects it can roll)
+0069007400610045	97	6FD3C3F182941D1A	Mushroom Leggings	Archetypes: Mage + Tank + Utility (decides which effects it can roll)
+0069007400610045	92	4ECFE065A525FDC6	Mushroom Boots	Archetypes: Mage + Tank + Utility (decides which effects it can roll)
+0072007400200041	89	AD089328E8C9DD70	Disciple mask	Archetypes: Fighter + Trickster (decides which effects it can roll)
+0072007400200041	76	9347CA0795FF2F06	Disciple Robe	Archetypes: Fighter + Trickster (decides which effects it can roll)
+0072007400200041	63	E9FC3010CEC43FD9	Disciple Leggings	Archetypes: Fighter + Trickster (decides which effects it can roll)
+0072007400200041	78	6A0A616EFFD1619A	Disciple Wraps	Archetypes: Fighter + Trickster (decides which effects it can roll)
+0075006300200041	64	74F9862A0B7A067F	Sifter Hood	Archetypes: Mage + Support (decides which effects it can roll)
+00200072006F0046	63	39783C2689E03491	Sifter Robe	Archetypes: Mage + Support (decides which effects it can roll)
+0073006500680054	71	A94BE17937813F72	Sifter Leggings	Archetypes: Support + Mage (decides which effects it can roll)
+00740066006F0053	59	D8A20192BA524CBE	Sifter Boots	Archetypes: Support + Mage (decides which effects it can roll)
+0066006100720043	49	3A7862D6E4E82B4B	Redstone Helmet	Archetypes: Mage + Tank (decides which effects it can roll)
+00720075006F0059	40	6C416E548150BAC7	Redstone Chestplate	Archetypes: Mage + Tank (decides which effects it can roll)
+00200072006F0046	40	CD9D8C92C72B2BCE	Redstone Shinguards	Archetypes: Mage + Tank (decides which effects it can roll)
+00620062006F0043	50	75335A669FD23932	Redstone Boots	Archetypes: Mage + Tank (decides which effects it can roll)
+0020007300740049	64	BF7C8071C81EB366	Sorcerer Hat	Archetypes: Mage (decides which effects it can roll)
+0020007300740049	79	BC06B72C3ED38FFA	Sorcerer Robe	Archetypes: Mage (decides which effects it can roll)
+0020006500680054	89	ADDB05FFBE8122CF	Sorcerer Leggings	Archetypes: Mage (decides which effects it can roll)
+0020006500680054	76	6325E924282C5316	Sorcerer Boots	Archetypes: Mage (decides which effects it can roll)
+0072006300200041	66	D437A184379F8855	Dreamruler Crown	Archetypes: Trickster + Ranger (decides which effects it can roll)
+0068006300200041	71	2367C68FFA51C1B6	Dreamruler Cover	Archetypes: Trickster + Ranger (decides which effects it can roll)
+0061007000200041	94	591015C198C12506	Dreamruler Pyjamas	Archetypes: Trickster + Ranger (decides which effects it can roll)
+0061007000200041	71	BF500B1AA793B88B	Dreamruler Slippers	Archetypes: Trickster + Ranger (decides which effects it can roll)
+0061006400200041	90	1EEE78E9A2E84ACA	Woodsprite Crown	Archetypes: Support + Summoner (decides which effects it can roll)
+0073006900680054	81	28669D80847E2440	Woodsprite Barkpiece	Archetypes: Summoner + Support (decides which effects it can roll)
+0061007000200041	80	31D189A5C25304B5	Woodsprite Trunks	Archetypes: Summoner + Support (decides which effects it can roll)
+0061007000200041	95	09AE0E2A1483D6EE	Woodsprite Root Boots	Archetypes: Summoner + Support (decides which effects it can roll)
+006F005300200041	67	C6BD76EE28D774D6	Soul Corruptor Mask	Archetypes: Mage + Ranger (decides which effects it can roll)
+006F005300200041	89	BC4BF7784BC439B6	Soul Corruptor Duster	Archetypes: Mage + Ranger (decides which effects it can roll)
+006F005300200041	61	CB3C917FA7D50541	Soul Corruptor Sash	Archetypes: Mage + Ranger (decides which effects it can roll)
+0061007000200041	78	40C4D9BE08A04E54	Soul Corruptor Sandals	Archetypes: Mage + Ranger (decides which effects it can roll)
+0061006800200041	81	754FE1068C483D8B	Hivemind Hardhat	Archetypes: Support (decides which effects it can roll)
+0068006300200041	67	EE4A1F83371E4238	Hivemind Thorax	Archetypes: Support (decides which effects it can roll)
+0075006F00720054	82	F02ECDAF5D5DAA24	Hivemind Trousers	Archetypes: Support (decides which effects it can roll)
+0074006F006F0042	81	7D8AD4B4D0A1CC67	Hivemind Stingers	Archetypes: Support (decides which effects it can roll)
+00650020006E0041	64	04D4FFC64CA91026	Fly Agaric Cap	Archetypes: Mage + Tank (decides which effects it can roll)
+0075006300200041	61	909A76CE8122CDF5	Fly Agaric Coat	Archetypes: Mage + Tank (decides which effects it can roll)
+2019006E006F0044	91	5281BCBC0F0DEFC6	Fly Agaric Trousers	Archetypes: Mage + Tank (decides which effects it can roll)
+0065007600690047	94	942404D475F276F2	Fly Agaric Galoshes	Archetypes: Mage + Tank (decides which effects it can roll)
+0061007700200041	89	147F902EB6748D54	Sage Headband	Archetypes: Fighter + Trickster (decides which effects it can roll)
+0072007400200041	105	1A90508AD4649D3C	Sage Tunic	Archetypes: Fighter + Trickster (decides which effects it can roll)
+0061007700200041	78	67C72453C3891E15	Sage Belt	Archetypes: Fighter + Trickster (decides which effects it can roll)
+0061007700200041	74	5C6126B5906F1068	Sage Wraps	Archetypes: Fighter + Trickster (decides which effects it can roll)
+0061007400200041	94	41FC7103A2881B9C	Mad Sifter Mask	Archetypes: Mage + Support (decides which effects it can roll)
+00650020006E0041	94	3A2E6717B8455BD8	Mad Sifter Vest	Archetypes: Mage + Support (decides which effects it can roll)
+0061007000200041	73	03FE6432352570FD	Mad Sifter Slacks	Archetypes: Support + Mage (decides which effects it can roll)
+0061007000200041	84	A67B2D3BAA337C31	Mad Sifter Paws	Archetypes: Support + Mage (decides which effects it can roll)
+006F006D00200041	64	03C0847EA3617CA1	Monstrosity Horns	Archetypes: Mage + Tank (decides which effects it can roll)
+006F006D00200041	95	05E29F66B01068DC	Monstrosity Armor	Archetypes: Mage + Tank (decides which effects it can roll)
+0061007000200041	70	7B7F005E20FC27A7	Monstrosity Greaves	Archetypes: Mage + Tank (decides which effects it can roll)
+0061007000200041	74	40018738AA8093DC	Monstrosity Stompers	Archetypes: Mage + Tank (decides which effects it can roll)
+00610020006E0041	86	FC6FE067401550D2	Alchemist Top Hat	Archetypes: Mage (decides which effects it can roll)
+00610020006E0041	69	5480DB7E55AACF30	Alchemist Overcoat	Archetypes: Mage (decides which effects it can roll)
+00610020006E0041	68	730CFBD0E2FCBDFE	Alchemist Trousers	Archetypes: Mage (decides which effects it can roll)
+00610020006E0041	69	2581E83F2C203AD5	Alchemist Loafers	Archetypes: Mage (decides which effects it can roll)
+0020006500650053	87	374511C10693F923	Sculker Mask	Archetypes: Mage + Trickster (decides which effects it can roll)
+0065006600200041	44	AE53E677D3D066D9	Sculker Robe	Archetypes: Mage + Trickster (decides which effects it can roll)
+0027006E006F0044	38	15A38C0B493D08C8	Sculker Slacks	Archetypes: Mage + Trickster (decides which effects it can roll)
+0073006500680054	77	FCAE64704D2F7333	Sculker Boots	Archetypes: Mage + Trickster (decides which effects it can roll)
+006F007700200041	83	BAD6D920752096C8	Monarch Crown	Archetypes: Mage + Trickster (decides which effects it can roll)
+0061006D00200041	82	718EE1EC01E9B232	Monarch Mantle	Archetypes: Mage + Trickster (decides which effects it can roll)
+006F006E00200041	74	AD5833FC0F041922	Monarch Sash	Archetypes: Mage + Trickster (decides which effects it can roll)
+0061007000200041	88	A816217BDB05D5B5	Monarch Talons	Archetypes: Mage + Trickster (decides which effects it can roll)
